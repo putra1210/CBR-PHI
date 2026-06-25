@@ -64,7 +64,7 @@ Library yang digunakan dalam proyek ini meliputi:
 Clone repository:
 
 ```bash
-git clone https://github.com/USERNAME/CBR-PHI.git
+git clone https://github.com/putra1210/CBR-PHI.git
 ```
 
 Masuk ke folder project:
